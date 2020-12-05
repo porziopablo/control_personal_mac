@@ -25,9 +25,9 @@ Instrucciones:
       
       {
       
-        "lan": "IP/mask CIDR",
-	      "periodoControl": X,
-	      "plazoMax": Y
+      	"lan": "IP/mask CIDR",
+		"periodoControl": X,
+		"plazoMax": Y
      
       }
       - X = periodo de control de WiFi, en segundos.
