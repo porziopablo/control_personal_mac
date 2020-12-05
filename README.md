@@ -25,7 +25,7 @@ Instrucciones:
       
       {
       
-        "lan": "IP/mask CIDR",
+              "lan": "IP/mask CIDR",
 	      "periodoControl": X,
 	      "plazoMax": Y
      
